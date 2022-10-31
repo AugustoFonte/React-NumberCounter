@@ -1,2 +1,4 @@
 # React-NumberCounter
-Created with CodeSandbox
+React Exercise - Number Counter.
+
+
